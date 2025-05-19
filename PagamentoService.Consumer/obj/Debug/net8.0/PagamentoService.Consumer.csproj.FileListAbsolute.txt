@@ -1,0 +1,17 @@
+/home/andrei/RiderProjects/PedidoMicroservices/PagamentoService.Consumer/bin/Debug/net8.0/PagamentoService.Consumer
+/home/andrei/RiderProjects/PedidoMicroservices/PagamentoService.Consumer/bin/Debug/net8.0/PagamentoService.Consumer.deps.json
+/home/andrei/RiderProjects/PedidoMicroservices/PagamentoService.Consumer/bin/Debug/net8.0/PagamentoService.Consumer.runtimeconfig.json
+/home/andrei/RiderProjects/PedidoMicroservices/PagamentoService.Consumer/bin/Debug/net8.0/PagamentoService.Consumer.dll
+/home/andrei/RiderProjects/PedidoMicroservices/PagamentoService.Consumer/bin/Debug/net8.0/PagamentoService.Consumer.pdb
+/home/andrei/RiderProjects/PedidoMicroservices/PagamentoService.Consumer/bin/Debug/net8.0/RabbitMQ.Client.dll
+/home/andrei/RiderProjects/PedidoMicroservices/PagamentoService.Consumer/obj/Debug/net8.0/PagamentoService.Consumer.csproj.AssemblyReference.cache
+/home/andrei/RiderProjects/PedidoMicroservices/PagamentoService.Consumer/obj/Debug/net8.0/PagamentoService.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrei/RiderProjects/PedidoMicroservices/PagamentoService.Consumer/obj/Debug/net8.0/PagamentoService.Consumer.AssemblyInfoInputs.cache
+/home/andrei/RiderProjects/PedidoMicroservices/PagamentoService.Consumer/obj/Debug/net8.0/PagamentoService.Consumer.AssemblyInfo.cs
+/home/andrei/RiderProjects/PedidoMicroservices/PagamentoService.Consumer/obj/Debug/net8.0/PagamentoService.Consumer.csproj.CoreCompileInputs.cache
+/home/andrei/RiderProjects/PedidoMicroservices/PagamentoService.Consumer/obj/Debug/net8.0/PagamentoService.Consumer.csproj.CopyComplete
+/home/andrei/RiderProjects/PedidoMicroservices/PagamentoService.Consumer/obj/Debug/net8.0/PagamentoService.Consumer.dll
+/home/andrei/RiderProjects/PedidoMicroservices/PagamentoService.Consumer/obj/Debug/net8.0/refint/PagamentoService.Consumer.dll
+/home/andrei/RiderProjects/PedidoMicroservices/PagamentoService.Consumer/obj/Debug/net8.0/PagamentoService.Consumer.pdb
+/home/andrei/RiderProjects/PedidoMicroservices/PagamentoService.Consumer/obj/Debug/net8.0/PagamentoService.Consumer.genruntimeconfig.cache
+/home/andrei/RiderProjects/PedidoMicroservices/PagamentoService.Consumer/obj/Debug/net8.0/ref/PagamentoService.Consumer.dll
