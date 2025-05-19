@@ -15,3 +15,4 @@
 /home/andrei/RiderProjects/PedidoMicroservices/PagamentoService.Consumer/obj/Debug/net8.0/PagamentoService.Consumer.pdb
 /home/andrei/RiderProjects/PedidoMicroservices/PagamentoService.Consumer/obj/Debug/net8.0/PagamentoService.Consumer.genruntimeconfig.cache
 /home/andrei/RiderProjects/PedidoMicroservices/PagamentoService.Consumer/obj/Debug/net8.0/ref/PagamentoService.Consumer.dll
+/home/andrei/RiderProjects/PedidoMicroservices/PagamentoService.Consumer/obj/Debug/net8.0/PagamentoService.Consumer.sourcelink.json

@@ -31,3 +31,5 @@
 /home/andrei/RiderProjects/PedidoMicroservices/PedidoService.API/obj/Debug/net8.0/PedidoService.API.pdb
 /home/andrei/RiderProjects/PedidoMicroservices/PedidoService.API/obj/Debug/net8.0/PedidoService.API.genruntimeconfig.cache
 /home/andrei/RiderProjects/PedidoMicroservices/PedidoService.API/obj/Debug/net8.0/ref/PedidoService.API.dll
+/home/andrei/RiderProjects/PedidoMicroservices/PedidoService.API/bin/Debug/net8.0/RabbitMQ.Client.dll
+/home/andrei/RiderProjects/PedidoMicroservices/PedidoService.API/obj/Debug/net8.0/PedidoService.API.sourcelink.json

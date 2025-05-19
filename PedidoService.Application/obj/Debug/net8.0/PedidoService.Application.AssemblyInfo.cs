@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PedidoService.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59f104978e7c803a92c0a0cad875bc39b7e4cbf8")]
 [assembly: System.Reflection.AssemblyProductAttribute("PedidoService.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PedidoService.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
